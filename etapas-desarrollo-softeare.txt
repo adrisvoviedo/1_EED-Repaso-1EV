@@ -1,6 +1,6 @@
 1. Analisis
 2. Diseño
 3. Codificacion
-4.Pruebas.
+4. Pruebas
 5. Despliegue
 6. Mantenimiento
